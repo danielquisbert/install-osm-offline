@@ -193,7 +193,7 @@ git checkout 6.2
 ```
 
 
-##Install Apache2
+## Install Apache2
 ```
 apt-get install -y apache2 apache2-mpm-worker libapache2-mod-fastcgi
 a2enmod actions fastcgi alias
@@ -211,7 +211,7 @@ chmod 777 /tmp/ms_tmp
 ```
 
 
-###Probar en el navegador
+### Probar en el navegador
 ```
 http://localhost/cgi-bin/mapserv?map=/opt/OSM/basemaps/osm-google.map&mode=browse&template=openlayers&layers=all
 ```
