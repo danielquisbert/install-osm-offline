@@ -1,4 +1,4 @@
-#Pasos de instalación 
+# Pasos de instalación OSM offline
 ## Aplicaciones utilitarias
 
 ```
