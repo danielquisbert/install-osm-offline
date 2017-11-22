@@ -213,5 +213,5 @@ chmod 777 /tmp/ms_tmp
 
 ###Probar en el navegador
 ```
-http://10.241.22.141/cgi-bin/mapserv?map=/opt/OSM/basemaps/osm-google.map&mode=browse&template=openlayers&layers=all
+http://localhost/cgi-bin/mapserv?map=/opt/OSM/basemaps/osm-google.map&mode=browse&template=openlayers&layers=all
 ```
