@@ -1,4 +1,13 @@
 # Pasos de instalación OSM offline
+
+## Software y hardware utilizados (requerimientos mínimos)
+
+- S.O.: Linux Debian 9
+- Procesador: core i3 (dos núcleos)
+- RAM: 4Gb
+- HD: 250 GB
+
+
 ## Aplicaciones utilitarias
 
 ```
