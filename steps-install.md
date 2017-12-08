@@ -1,4 +1,7 @@
-# Pasos de instalación OSM offline
+# instalación de OSM en Local
+
+Un resumen de los pasos que se sigen para implementar el mapa de OSM, basado en una documentación que saco geoBolivia hace algunos años atrás.
+
 
 ## Software y hardware utilizados (requerimientos mínimos)
 
